@@ -8,3 +8,5 @@
 1st.html과 main의 view.py만 보면 될 듯
 
 (준현 + 영민)
+
+venv도 지워서 올렸다 (압축)
